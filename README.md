@@ -130,7 +130,7 @@ Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 
 - [🎨 Figma Prototype](https://www.figma.com/proto/fKBMULxhGCyk10WLm6ZAaS/Cloud-Hotel)
 - [📊 User Research Survey](https://docs.google.com/forms/d/e/1FAIpQLSepCx1mwGuuPGcryLFLlcb0_id-Vb7GC0qj6Vrk4Ao9XUjiRw/viewform)
-- [📄 Full Project Report][Final Project Assignment .pdf](https://github.com/user-attachments/files/25885775/Final.Project.Assignment.pdf)
+- 📄 [Final Project Assignment .pdf](https://github.com/user-attachments/files/25885775/Final.Project.Assignment.pdf)
 
 ---
 
