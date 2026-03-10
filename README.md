@@ -93,7 +93,7 @@ Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 ## 🖼️ Screenshots
 
 ### Home Screen
-![Home Screen](<img width="463" height="467" alt="Screenshot 2026-03-11 at 2 32 55 AM" src="https://github.com/user-attachments/assets/8c5ed56e-d3a4-4567-ba65-06b58940a42d" />
+<img width="463" height="467" alt="Screenshot 2026-03-11 at 2 32 55 AM" src="https://github.com/user-attachments/assets/8c5ed56e-d3a4-4567-ba65-06b58940a42d" />
 )
 
 ### Flight Search
