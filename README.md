@@ -12,35 +12,35 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **Cloud Hotel** is a user-centered flight booking application designed with **accessibility** and **minimalism** in mind. The project addresses common pain points in existing travel apps: crowded interfaces, confusing steps, and lack of transparency.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Many flight booking apps are difficult to use because:
-- ❌ Screens are too crowded
-- ❌ Too many steps in the booking process
-- ❌ Unclear instructions and policies
-- ❌ Not accessible for users with disabilities
-- ❌ Hidden fees and confusing cancellation policies
+-  Screens are too crowded
+-  Too many steps in the booking process
+-  Unclear instructions and policies
+-  Not accessible for users with disabilities
+-  Hidden fees and confusing cancellation policies
 
 ---
 
-## 💡 Solution
+##  Solution
 
 A simple, transparent, and accessible flight booking app that:
-- ✅ Clear, minimalist interface
-- ✅ Streamlined booking process
-- ✅ Transparent pricing and policies
-- ✅ Accessibility features for all users
-- ✅ AI-powered assistance
+-  Clear, minimalist interface
+-  Streamlined booking process
+-  Transparent pricing and policies
+-  Accessibility features for all users
+-  AI-powered assistance
 
 ---
 
-## 📊 User Research
+##  User Research
 
 | Metric | Value |
 |--------|-------|
@@ -61,7 +61,7 @@ A simple, transparent, and accessible flight booking app that:
 
 ---
 
-## 🎨 Design Process
+##  Design Process
 Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 
 
@@ -77,7 +77,7 @@ Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 
 ---
 
-## 📱 Key Features
+##  Key Features
 
 | Feature | Description |
 |---------|-------------|
@@ -90,7 +90,7 @@ Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### Home Screen
 <img width="463" height="467" alt="Screenshot 2026-03-11 at 2 32 55 AM" src="https://github.com/user-attachments/assets/8c5ed56e-d3a4-4567-ba65-06b58940a42d" />
@@ -115,7 +115,7 @@ Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 
 ---
 
-## 👥 Team
+##  Team
 
 | Name | Role |
 |------|------|
@@ -128,15 +128,15 @@ Research → Analysis → Low-Fidelity → High-Fidelity → Testing
 
 ## 🔗 Links
 
-- [🎨 Figma Prototype](https://www.figma.com/proto/fKBMULxhGCyk10WLm6ZAaS/Cloud-Hotel)
-- [📊 User Research Survey](https://docs.google.com/forms/d/e/1FAIpQLSepCx1mwGuuPGcryLFLlcb0_id-Vb7GC0qj6Vrk4Ao9XUjiRw/viewform)
-- 📄 [Final Project Assignment .pdf](https://github.com/user-attachments/files/25885775/Final.Project.Assignment.pdf)
+- [ Figma Prototype](https://www.figma.com/proto/fKBMULxhGCyk10WLm6ZAaS/Cloud-Hotel)
+- [ User Research Survey](https://docs.google.com/forms/d/e/1FAIpQLSepCx1mwGuuPGcryLFLlcb0_id-Vb7GC0qj6Vrk4Ao9XUjiRw/viewform)
+-  [Final Project Assignment .pdf](https://github.com/user-attachments/files/25885775/Final.Project.Assignment.pdf)
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Ibrahim Eissa Abu Alghayth**  
-📧 ibrahim.abualg@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  
-🐙 [GitHub](https://github.com/Ibrah1m1)
+ ibrahim.abualg@gmail.com  
+ [LinkedIn](https://linkedin.com/in/yourname)  
+[GitHub](https://github.com/Ibrah1m1)
